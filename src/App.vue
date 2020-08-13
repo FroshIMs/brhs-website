@@ -1,26 +1,23 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-     <router-view/>
+    <AppHeader />
+    <router-view/>
+    <AppFooter />
   </div>
 </template>
 
-<style lang="less">
-@import "../node_modules/uikit/src/less/uikit.less";
+<script>
+  import AppHeader from '@/components/AppHeader'
+  import AppFooter from '@/components/AppFooter'
 
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
+  export default {
+    components: {
+      AppHeader,
+      AppFooter
     }
   }
-}
+</script>
+
+<style lang="less">
+@import "../node_modules/uikit/src/less/uikit.less";
 </style>
