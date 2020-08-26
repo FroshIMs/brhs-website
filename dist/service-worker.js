@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.31420e6075131565358a39d3b9e69360.js"
+  "/precache-manifest.2d8a7ff915bdbf1de7af1715d8204cce.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "brhs"});
