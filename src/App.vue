@@ -20,4 +20,14 @@
 
 <style lang="less">
 @import "../node_modules/uikit/src/less/uikit.less";
+
+a {
+  color: #008000;
+}
+
+.my-container {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
 </style>

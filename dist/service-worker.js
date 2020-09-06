@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.31420e6075131565358a39d3b9e69360.js"
+  "/precache-manifest.d7d618eb89238e45422a2a7e54b58def.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "brhs"});
+workbox.core.setCacheNameDetails({prefix: "jamalco"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
