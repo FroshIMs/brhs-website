@@ -4,18 +4,18 @@
     <div>
         <div class="uk-card uk-card-body">
           <ul class="uk-list">
-            <li>lorem</li>
-            <li>lorem</li>
-            <li>lorem</li>
+            <li>Tel: 1 876 457-8901</li>
+            <li>Fax: 1 876 457-8901</li>
+            <li>Email <a href="mailto:contact@brhs.edu.jm">contact@brhs.edu.jm</a></li>
           </ul>
         </div>
     </div>
     <div>
         <div class="uk-card uk-card-body">
           <ul class="uk-list">
-            <li>lorem</li>
-            <li>lorem</li>
-            <li>lorem</li>
+            <li>Apply</li>
+            <li>Subjects</li>
+            <li>Application Form</li>
           </ul>
         </div>
     </div>

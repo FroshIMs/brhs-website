@@ -1,6 +1,6 @@
 <template lang="html">
   <div uk-slider="autoplay: true">
-    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="ratio: 8:3; animation: push">
+    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="ratio: 10:3; animation: push">
 
     <ul class="uk-slideshow-items">
         <li>
