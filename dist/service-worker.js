@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d7d618eb89238e45422a2a7e54b58def.js"
+  "/precache-manifest.ad1fe2484bb99400ec329bd35ffc4557.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jamalco"});
